@@ -10,7 +10,7 @@
                     "name": "Movement",
                     "type": "Value",
                     "id": "90210171-da8e-450e-92ed-f98b57a223cb",
-                    "expectedControlType": "",
+                    "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
@@ -19,7 +19,7 @@
                     "name": "Look",
                     "type": "Value",
                     "id": "17aaec08-b9e9-405a-a726-4c977a1f1df8",
-                    "expectedControlType": "",
+                    "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
